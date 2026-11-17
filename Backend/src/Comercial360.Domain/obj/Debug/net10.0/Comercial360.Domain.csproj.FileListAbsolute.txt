@@ -1,0 +1,12 @@
+E:\CLASES UPN\TALLER DOCUMENTO TECNICO DE ARQUITECURA\ejercicio\Backend\src\Comercial360.Domain\bin\Debug\net10.0\Comercial360.Domain.deps.json
+E:\CLASES UPN\TALLER DOCUMENTO TECNICO DE ARQUITECURA\ejercicio\Backend\src\Comercial360.Domain\bin\Debug\net10.0\Comercial360.Domain.dll
+E:\CLASES UPN\TALLER DOCUMENTO TECNICO DE ARQUITECURA\ejercicio\Backend\src\Comercial360.Domain\bin\Debug\net10.0\Comercial360.Domain.pdb
+E:\CLASES UPN\TALLER DOCUMENTO TECNICO DE ARQUITECURA\ejercicio\Backend\src\Comercial360.Domain\obj\Debug\net10.0\Comercial360.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\CLASES UPN\TALLER DOCUMENTO TECNICO DE ARQUITECURA\ejercicio\Backend\src\Comercial360.Domain\obj\Debug\net10.0\Comercial360.Domain.AssemblyInfoInputs.cache
+E:\CLASES UPN\TALLER DOCUMENTO TECNICO DE ARQUITECURA\ejercicio\Backend\src\Comercial360.Domain\obj\Debug\net10.0\Comercial360.Domain.AssemblyInfo.cs
+E:\CLASES UPN\TALLER DOCUMENTO TECNICO DE ARQUITECURA\ejercicio\Backend\src\Comercial360.Domain\obj\Debug\net10.0\Comercial360.Domain.csproj.CoreCompileInputs.cache
+E:\CLASES UPN\TALLER DOCUMENTO TECNICO DE ARQUITECURA\ejercicio\Backend\src\Comercial360.Domain\obj\Debug\net10.0\Comercial360.Domain.dll
+E:\CLASES UPN\TALLER DOCUMENTO TECNICO DE ARQUITECURA\ejercicio\Backend\src\Comercial360.Domain\obj\Debug\net10.0\refint\Comercial360.Domain.dll
+E:\CLASES UPN\TALLER DOCUMENTO TECNICO DE ARQUITECURA\ejercicio\Backend\src\Comercial360.Domain\obj\Debug\net10.0\Comercial360.Domain.pdb
+E:\CLASES UPN\TALLER DOCUMENTO TECNICO DE ARQUITECURA\ejercicio\Backend\src\Comercial360.Domain\obj\Debug\net10.0\ref\Comercial360.Domain.dll
+E:\CLASES UPN\TALLER DOCUMENTO TECNICO DE ARQUITECURA\ejercicio\Backend\src\Comercial360.Domain\obj\Debug\net10.0\Comercia.D434C82A.Up2Date

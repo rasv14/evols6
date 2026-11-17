@@ -1,0 +1,15 @@
+E:\CLASES UPN\TALLER DOCUMENTO TECNICO DE ARQUITECURA\ejercicio\Backend\src\Comercial360.Application\bin\Debug\net10.0\Comercial360.Application.deps.json
+E:\CLASES UPN\TALLER DOCUMENTO TECNICO DE ARQUITECURA\ejercicio\Backend\src\Comercial360.Application\bin\Debug\net10.0\Comercial360.Application.dll
+E:\CLASES UPN\TALLER DOCUMENTO TECNICO DE ARQUITECURA\ejercicio\Backend\src\Comercial360.Application\bin\Debug\net10.0\Comercial360.Application.pdb
+E:\CLASES UPN\TALLER DOCUMENTO TECNICO DE ARQUITECURA\ejercicio\Backend\src\Comercial360.Application\bin\Debug\net10.0\Comercial360.Domain.dll
+E:\CLASES UPN\TALLER DOCUMENTO TECNICO DE ARQUITECURA\ejercicio\Backend\src\Comercial360.Application\bin\Debug\net10.0\Comercial360.Domain.pdb
+E:\CLASES UPN\TALLER DOCUMENTO TECNICO DE ARQUITECURA\ejercicio\Backend\src\Comercial360.Application\obj\Debug\net10.0\Comercial360.Application.csproj.AssemblyReference.cache
+E:\CLASES UPN\TALLER DOCUMENTO TECNICO DE ARQUITECURA\ejercicio\Backend\src\Comercial360.Application\obj\Debug\net10.0\Comercial360.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\CLASES UPN\TALLER DOCUMENTO TECNICO DE ARQUITECURA\ejercicio\Backend\src\Comercial360.Application\obj\Debug\net10.0\Comercial360.Application.AssemblyInfoInputs.cache
+E:\CLASES UPN\TALLER DOCUMENTO TECNICO DE ARQUITECURA\ejercicio\Backend\src\Comercial360.Application\obj\Debug\net10.0\Comercial360.Application.AssemblyInfo.cs
+E:\CLASES UPN\TALLER DOCUMENTO TECNICO DE ARQUITECURA\ejercicio\Backend\src\Comercial360.Application\obj\Debug\net10.0\Comercial360.Application.csproj.CoreCompileInputs.cache
+E:\CLASES UPN\TALLER DOCUMENTO TECNICO DE ARQUITECURA\ejercicio\Backend\src\Comercial360.Application\obj\Debug\net10.0\Comercia.C6BAF1E2.Up2Date
+E:\CLASES UPN\TALLER DOCUMENTO TECNICO DE ARQUITECURA\ejercicio\Backend\src\Comercial360.Application\obj\Debug\net10.0\Comercial360.Application.dll
+E:\CLASES UPN\TALLER DOCUMENTO TECNICO DE ARQUITECURA\ejercicio\Backend\src\Comercial360.Application\obj\Debug\net10.0\refint\Comercial360.Application.dll
+E:\CLASES UPN\TALLER DOCUMENTO TECNICO DE ARQUITECURA\ejercicio\Backend\src\Comercial360.Application\obj\Debug\net10.0\Comercial360.Application.pdb
+E:\CLASES UPN\TALLER DOCUMENTO TECNICO DE ARQUITECURA\ejercicio\Backend\src\Comercial360.Application\obj\Debug\net10.0\ref\Comercial360.Application.dll

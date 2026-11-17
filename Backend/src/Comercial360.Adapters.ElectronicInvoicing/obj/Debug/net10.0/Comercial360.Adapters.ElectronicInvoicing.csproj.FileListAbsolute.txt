@@ -1,0 +1,17 @@
+E:\CLASES UPN\TALLER DOCUMENTO TECNICO DE ARQUITECURA\ejercicio\Backend\src\Comercial360.Adapters.ElectronicInvoicing\bin\Debug\net10.0\Comercial360.Adapters.ElectronicInvoicing.deps.json
+E:\CLASES UPN\TALLER DOCUMENTO TECNICO DE ARQUITECURA\ejercicio\Backend\src\Comercial360.Adapters.ElectronicInvoicing\bin\Debug\net10.0\Comercial360.Adapters.ElectronicInvoicing.dll
+E:\CLASES UPN\TALLER DOCUMENTO TECNICO DE ARQUITECURA\ejercicio\Backend\src\Comercial360.Adapters.ElectronicInvoicing\bin\Debug\net10.0\Comercial360.Adapters.ElectronicInvoicing.pdb
+E:\CLASES UPN\TALLER DOCUMENTO TECNICO DE ARQUITECURA\ejercicio\Backend\src\Comercial360.Adapters.ElectronicInvoicing\bin\Debug\net10.0\Comercial360.Application.dll
+E:\CLASES UPN\TALLER DOCUMENTO TECNICO DE ARQUITECURA\ejercicio\Backend\src\Comercial360.Adapters.ElectronicInvoicing\bin\Debug\net10.0\Comercial360.Domain.dll
+E:\CLASES UPN\TALLER DOCUMENTO TECNICO DE ARQUITECURA\ejercicio\Backend\src\Comercial360.Adapters.ElectronicInvoicing\bin\Debug\net10.0\Comercial360.Application.pdb
+E:\CLASES UPN\TALLER DOCUMENTO TECNICO DE ARQUITECURA\ejercicio\Backend\src\Comercial360.Adapters.ElectronicInvoicing\bin\Debug\net10.0\Comercial360.Domain.pdb
+E:\CLASES UPN\TALLER DOCUMENTO TECNICO DE ARQUITECURA\ejercicio\Backend\src\Comercial360.Adapters.ElectronicInvoicing\obj\Debug\net10.0\Comercial360.Adapters.ElectronicInvoicing.csproj.AssemblyReference.cache
+E:\CLASES UPN\TALLER DOCUMENTO TECNICO DE ARQUITECURA\ejercicio\Backend\src\Comercial360.Adapters.ElectronicInvoicing\obj\Debug\net10.0\Comercial360.Adapters.ElectronicInvoicing.GeneratedMSBuildEditorConfig.editorconfig
+E:\CLASES UPN\TALLER DOCUMENTO TECNICO DE ARQUITECURA\ejercicio\Backend\src\Comercial360.Adapters.ElectronicInvoicing\obj\Debug\net10.0\Comercial360.Adapters.ElectronicInvoicing.AssemblyInfoInputs.cache
+E:\CLASES UPN\TALLER DOCUMENTO TECNICO DE ARQUITECURA\ejercicio\Backend\src\Comercial360.Adapters.ElectronicInvoicing\obj\Debug\net10.0\Comercial360.Adapters.ElectronicInvoicing.AssemblyInfo.cs
+E:\CLASES UPN\TALLER DOCUMENTO TECNICO DE ARQUITECURA\ejercicio\Backend\src\Comercial360.Adapters.ElectronicInvoicing\obj\Debug\net10.0\Comercial360.Adapters.ElectronicInvoicing.csproj.CoreCompileInputs.cache
+E:\CLASES UPN\TALLER DOCUMENTO TECNICO DE ARQUITECURA\ejercicio\Backend\src\Comercial360.Adapters.ElectronicInvoicing\obj\Debug\net10.0\Comercia.9458A556.Up2Date
+E:\CLASES UPN\TALLER DOCUMENTO TECNICO DE ARQUITECURA\ejercicio\Backend\src\Comercial360.Adapters.ElectronicInvoicing\obj\Debug\net10.0\Comercial360.Adapters.ElectronicInvoicing.dll
+E:\CLASES UPN\TALLER DOCUMENTO TECNICO DE ARQUITECURA\ejercicio\Backend\src\Comercial360.Adapters.ElectronicInvoicing\obj\Debug\net10.0\refint\Comercial360.Adapters.ElectronicInvoicing.dll
+E:\CLASES UPN\TALLER DOCUMENTO TECNICO DE ARQUITECURA\ejercicio\Backend\src\Comercial360.Adapters.ElectronicInvoicing\obj\Debug\net10.0\Comercial360.Adapters.ElectronicInvoicing.pdb
+E:\CLASES UPN\TALLER DOCUMENTO TECNICO DE ARQUITECURA\ejercicio\Backend\src\Comercial360.Adapters.ElectronicInvoicing\obj\Debug\net10.0\ref\Comercial360.Adapters.ElectronicInvoicing.dll

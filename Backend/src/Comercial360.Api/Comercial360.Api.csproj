@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.6.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Comercial360.Application\Comercial360.Application.csproj" />
+    <ProjectReference Include="..\Comercial360.Adapters.Persistence\Comercial360.Adapters.Persistence.csproj" />
+    <ProjectReference Include="..\Comercial360.Adapters.ElectronicInvoicing\Comercial360.Adapters.ElectronicInvoicing.csproj" />
+  </ItemGroup>
+
+</Project>
